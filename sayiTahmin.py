@@ -28,5 +28,5 @@ while True:
         break
     else:
         print("Yanlis Tahmin Tekrar Deneyin")
-        sayiListem.pop(x)
+        
     count=count-1
